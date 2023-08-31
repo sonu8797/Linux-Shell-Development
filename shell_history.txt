@@ -1,0 +1,1000 @@
+  $PATH
+  echo vinod
+  code .
+  ls
+  ./myscript.sh
+  ls -l myscript.sh 
+  ./myscript.sh
+  chmod 755 myscript.sh 
+  ls -l myscript.sh 
+  ./myscript.sh
+  1a.sh inp.txt
+  ls -l 1a.sh 
+  ./1a.sh 
+  ./1a.sh inp.txt 
+  1a.sh inp.txt 
+  sh 1a.sh inp.txt 
+  chmod +x file_handling.sh 
+  ./file_handling.sh inp.json
+  jq --version
+  sudo apt  install jq 
+  sudo dpkg --configure -a
+  sudo apt  install jq 
+  ./file_handling.sh inp.json
+  ./file_handling.sh 
+  clear
+  ./file_handling.sh 
+  clear
+  ./file_handling.sh 
+  chmod +x str_ch.sh 
+  ./str_ch.sh 
+  pwd
+  pwd
+  chmod +x sieve.sh 
+  ./sieve.sh 
+  ./sieve.sh  num.txt primes_out.txt 
+  tree nmt-master/
+  sudo apt  install tree
+  tree nmt-master/
+  clear
+  chmod +x 7_file_handling.sh 
+  ./7_file_handling.sh ./op
+  ./7_file_handling.sh /home/vinod/Documents/IIT Kharagpur
+  ./7_file_handling.sh /home/vinod/Documents
+  ./7_file_handling.sh ./input ./out
+  ./7_file_handling.sh ./input /home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assign1
+  ./7_file_handling.sh ./input ./out
+  clear
+  ./7_file_handling.sh ./input ./out
+  gcc -g udpserver.c -o sr
+  ./sr
+  gcc -g udpclient.c -o cl
+  ./cl
+  code.
+  code .
+  code .
+  cd Assign2
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  clear
+  gcc -g tcpcl.c -o cli
+  clear
+  ./cli
+  cd Assign2
+  gcc -g tcpsr.c -o ser
+  ./ser
+  gcc -g tcpsr.c -o ser
+  ./ser
+  gcc -g tcpsr.c -o ser
+  ./ser
+  gcc -g tcpsr.c -o ser
+  ./ser
+  clear
+  ./ser
+  gcc -g tcpsr.c -o ser
+  ./ser
+  clear
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  clear
+  gcc -g tcpsr.c -o ser
+  ./ser
+  clear
+  gcc -g tcpsr.c -o ser
+  ./ser
+  gcc -g tcpsr.c -o ser
+  ./ser
+  clear
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser\
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc -g tcpcl.c -o cli
+  ./cli
+  gcc  tcpcl.c -o cli
+  gcc -g tcpcl.c -o cli
+  gcc  tcpcl.c -o cli
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc  tcpcl.c -o cli
+  ./cli
+  gcc  tcpcl.c -o cli
+  ./cli
+  gcc  tcpcl.c -o cli
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc  tcpcl.c -o cli
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  cd ..
+  dir
+  dir /Assign2
+  dir Assign2
+  cd Assign2
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  ./cli
+  cd
+  pwd
+  cd
+  ls
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  ./7_file_handling.sh ./input ./out
+  ./str_ch.sh 
+  ./str_ch.sh input4.txt 
+  clear
+  ./str_ch.sh input4.txt output4.txt 
+  gcc server.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpsr.c -o ser
+  ./ser
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc tcpcl.c -o cli
+  ./cli
+  gcc udpclient.c -o cli
+  ./cli
+  gcc udpclient.c -o cli
+  ./cli
+  gcc udpserver.c -o ser
+  ./ser
+  chmod +x 5_pattern_matching.sh 
+  ./5_pattern_matching.sh nmt-master/
+  ./5_pattern_matching.sh nmt-master output5.txt 
+  chmod +x 8_csv_manipulating.sh 
+  ./8_csv_manipulating.sh 01-01-23 food
+  ./8_csv_manipulating.sh 01-01-23 food 550 Sudarshan
+  ./8_csv_manipulating.sh -n Sudarshan 01-01-23 food 550 Sudarshan
+  man cd 
+  man mkdir
+  ./8_csv_manipulating.sh -n Sudarshan -c food
+  ./8_csv_manipulating.sh 01-01-23 food 550 Sudarshan
+  ./8_csv_manipulating.sh -n Sudarshan 01-01-23 food 550 Sudarshan
+  ./8_csv_manipulating.sh -c food -n Sudarshan 01-01-23 food 550 Sudarshan
+  ./8_csv_manipulating.sh -c food -n Sudarshan -s Amount 01-01-23 food 550 Sudarshan
+  ./8_csv_manipulating.sh -c food -n Sudarshan -s Name  01-01-23 food 550 Sudarshan
+  man mkdir
+  ./8_csv_manipulating.sh -c food -n Sudarshan -s Name  01-01-23 food 550 Sudarshan
+  ./8_csv_manipulating.sh -c food -n Sudarshan -s Date  01-01-23 food 550 Sudarshan
+  ./8_csv_manipulating.sh -c food -n Sudarshan -s Date -h  01-01-23 food 550 Sudarshan
+  man makdir
+  man mkdir
+  chmod +x Assgn1_3_5.sh 
+  ./Assgn1_3_5.sh ./json_dumps ./my_dumps created_at retweet_count id_str
+  ./Assgn1_3_5.sh ./json_dumps ./my_dumps 
+  ./Assgn1_3_5.sh ./json_dumps ./my_dumps created_at retweet_count id_str
+  ./Assgn1_3_5.sh ./json_dumps ./my_dumps 
+  ./Assgn1_3_5.sh ./json_dumps ./my_dumps created_at retweet_count id_str
+  ./Assgn1_3_5.sh ./json_dumps ./my_dumps 
+  ./Assgn1_3_5.sh ./json_dumps ./my_dumps created_at retweet_count id_str
+  sudo apt update
+  sudo snap install teams
+  sudo install teams
+  ./Assgn1_3_5.sh ./json_dumps ./my_dumps created_at retweet_count id_str
+  chmod +x 9_da.sh 
+  ./9_da.sh 9_da.txt 9_da_out.txt
+  man ./9_da.sh 9_da.txt 9_da_out.txt
+  ./8_csv_manipulating.sh -c food -n Sudarshan -s Date -h  01-01-23 food 550 Sudarshan
+  ./Assgn1_1_29.sh num.txt
+  chmod +x Assgn1_1_29.sh 
+  ./Assgn1_1_29.sh num.txt
+  chmod +x Assgn1_2_29.sh 
+  ./Assgn1_2_29.sh usernames.txt fruits.txt 
+  clear
+  ./Assgn1_2_29.sh usernames.txt fruits.txt output_2.txt
+  cd OS23_JSON_ASSGN/
+  chmod +x Assgn1_3_29.sh 
+  ./Assgn1_3_29.sh ./json_dumps ./my_dumps created_at id_str retweet_count
+  chmod +x Assgn1_4_29.sh 
+  ./Assgn1_4_29.sh input4.txt output4.txt 
+  chmod +x Assgn1_5_29.sh 
+  ./Assgn1_5_29.sh ./nmt-master output5.txt 
+  chmod +x Assgn1_6_29.sh 
+  ./Assgn1_6_29.sh inp.txt output6.txt
+  chmod +x Assgn1_7_29.sh 
+  ./Assgn1_7_29.sh ./input ./out
+  chmod +x Assgn1_8_29.sh 
+  ./Assgn1_8_29.sh -n Kriti -c food -s Amount 01-01-23 food 1000 Nirbhay
+  chmod +x Assgn1_9_29.sh 
+  ./Assgn1_9_29.sh 9_da.txt 9_da_out.txt 
+  gcc client1.c -o cli
+  ./cli
+  gcc client1.c -o cli
+  ./cli
+  gcc server1 -o ser
+  gcc sever1 -o ser
+  gcc sever1.c  -o ser
+  gcc sever1 -o ser
+  gcc sever1.c  -o ser
+  ./ser
+  gcc sever1.c  -o ser
+  ./ser
+  code .
+  cd ..
+  code .
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  ./ser 20000
+  ./ser 5001
+  ./ser 8000
+  ./ser 5001
+  gcc client.c -o cli
+  ./cli
+  gcc client.c -o cli
+  ./cli
+  gcc client.c -o cli
+  ./cli
+  gcc server.c -o ser
+  ./ser 5000
+  gcc client.c  -o cli
+  ./cli
+  ./cli 8000
+  gcc client.c  -o cli
+  ./cli 5000
+  ./cli 5001
+  ./cli 5000
+  ./ser 5001
+  gcc server.c -o ser
+  clear
+  gcc server.c -o ser
+  clear
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5000
+  gcc lb.c -o l
+  ./l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  ./ser 5000
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  ./cli 8000
+  ./ser 5002
+  ./ser 5001
+  ./ser 5000
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  ./ser 5002
+  ./cli 8000
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc client.c -o cli
+  ./cli
+  ./cli 8000
+  ./cli
+  ./cli 8000
+  ./cli
+  ./cli 8000
+  ./cli
+  ./cli 8000
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc lb.c  -o l
+  ./l
+  ./l 8000 5000 5001 
+  gcc lb.c  -o l
+  ./l 8000 5000 5001 
+  gcc lb.c  -o l
+  ./l 8000 5000 5001 
+  gcc lb.c  -o l
+  ./l 8000 5000 5001 
+  gcc lb.c  -o l
+  ./l 8000 5000 5001 
+  gcc lb.c  -o l
+  ./l 8000 5000 5001 
+  ./cli 8000
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5000
+  ./cli 8000
+  ./ser 5000
+  ./cli 8000
+  ./ser 5000
+  ./cli 8000
+  ./ser 5001
+  clear
+  ./ser 5001
+  clear
+  gcc server.c -o ser
+  ./ser 5000
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  clear
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  ./ser 5000
+  gcc server.c  -o ser
+  ./ser 5000
+  ./ser 5001
+  ./cli
+  ./cli 8000
+  ./cli
+  ./cli 8000
+  ./cli
+  ./cli 8000
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  ./cli 8000
+  ./ser 5000
+  ./ser 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  .ser 5000
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  ./ser 5001
+  ./cli 8000
+  ./l 8000 5000 5001
+  ./cli 8000
+  ./l 8000 5000 5001
+  ./cli 8000
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc client.c -o cli
+  ./cli 5000
+  gcc client.c -o cli
+  ./cli 5000
+  gcc client.c -o cli
+  ./cli 5000
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc client.c -o cli
+  ./cli 5000
+  gcc client.c -o cli
+  ./cli 5000
+  gcc client.c -o cli
+  ./cli 5000
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 5001
+  gcc client.c -o cli
+  ./cli 8000
+  ./ser 5001
+  ./ser 5002
+  ./ser 5003
+  gcc server.c -o ser
+  ./ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  gcc server.c -o ser
+  ./ser 5000
+  clear
+  gcc server.c -o ser
+  ./ser 5000
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5001
+  gcc server.c -o ser
+  ./ser 5000
+  ./ser 5001
+  gcc ligcc lb.c -o l
+  gcc lb.c -o l
+  ./l 8000 5000 5002
+  gcc lb.c -o l
+  ./l 8000 5001 5003
+  ./cli
+  ./cli 8000
+  ./ser 5001
+  ./ser 5000
+  gcc lb_kriti.c -o l
+  ./l 8000 5000 5001
+  gcc lb_kriti.c -o l
+  ./l 8000 5000 5001
+  gcc client.c -o cl
+  ./cl 8000
+  gcc client.c -o cl
+  ./cl 8000
+  ./sr 5001
+  gcc server.c -o sr
+  ./sr 5000
+  gcc server.c -o sr
+  ./sr 5000
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  gcc lb.c -o l
+  ./l 8000 5000 5001
+  code .
+  ssh 20CS10074@10.5.18.70
+  ssh 20CS30051@10.5.18.72
+  ssh 20CS10074@10.5.18.70
+  ssh 20CS10073@10.5.18.70
+  ssh 20CS10074@10.5.18.70
+  sudo apt install wget ca-certificates
+  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ $(lsb_release -cs)-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
+  sudo apt update
+  apt install postgresql postgresql-contrib
+  sudo apt install -y postgresql postgresql-contrib postgresql-client
+  sudo dpkg --status postgresql
+  sudo -u postgres psql
+  code .
+  code .
+  python -u "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/db1.py"
+  sudo install python
+  python3
+  python3 -u "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/db1.py"
+  python -u "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/db1.py"
+  python3 db1.py
+  sudo apt-get install python-pip
+  sudo apt-get update
+  sudo apt-get install libpq-dev python-dev
+  sudo pip install psycopg2
+  sudo apt-get install libpq-dev python-dev
+  sudo apt-get install python3-psycopg2
+  sudo pip install psycopg2
+  sudo apt-get install unixodbc-dev
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/" && gcc db2.c -o db2 && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/"db2
+  python3 db1.py 
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/" && gcc db2.c -o db2 && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/"db2
+  sudo apt install odbcinst
+  odbcinst --version
+  odbcinst -q -d
+  apt-get install odbc-postgresql
+  gcc -o db3 db3.c -loadbc
+  gcc -o db3 db3.c -lodbc
+  ./db3
+  sudo pip install psycopg2
+  sudo apt-get install python3-psycopg2
+  gcc -o db2 db2.c -lodbc
+  ./db2
+  gcc -o db db.c -lodbc
+  gcc -o db2 db2.c -lodbc
+  ./db2
+  gcc -o db2 db2.c -lodbc
+  ./db2
+  gcc -o db db.c -lodbc
+  ./db
+  gcc -o db db.c -lodbc
+  ./db
+  gcc -o db3 db3.c -lodbc
+  sudo -u postgres psql
+  javac PostgreSQLJDBC.java
+  sudo apt install openjdk-19-jdk-headless
+  javac PostgreSQLJDBC.java
+  java -cp postgresql-42.5.3.jar PostgreSQLJDBC
+  java -cp postgresql-42.5.3.jar PostgreSQLJDBC.class
+  java -cp postgresql-42.5.3.jar
+  java -cp postgresql-42.5.3.jar ; PostgreSQLJDBC
+  python3 db1.py 
+  java -cp postgresql-42.5.3.jar  PostgreSQLJDBC
+  java -cp postgresql-42.5.3.jar ;  PostgreSQLJDBC
+  java -cp postgresql-42.5.3.jar;PostgreSQLJDBC
+  java -cp /Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3 postgresql-42.5.3.jar; /Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3 PostgreSQLJDBC
+  java -cp postgresql-42.5.3.jar;PostgreSQLJDBC
+  clear
+  javac PostgreSQLJDBC.java 
+  java -cp postgresql-42.5.3.jar;PostgreSQLJDBC
+  java -cp postgresql-42.5.3.jar;PostgreSQLJDBC.class
+  java -cp ./postgresql-42.5.3.jar;./PostgreSQLJDBC.class
+  java -cp postgresql-42.5.3.jar;PostgreSQLJDBC
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc shell.c -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  code .
+  sudo odbcinst -i -d -f /usr/share/psqlodbc/odbcinst.ini.template
+  sudo apt-get install odbc-vinoddb
+  sudo apt-get install inixodbc odbcinst
+  sudo apt-get install unixodbc odbcinst
+  sudo nvim etc/odbcinst.ini
+  sudo install nvim
+  sudo etc/odbcinst.ini
+  cd
+  pwd
+  cd ..
+  pwd
+  ls
+  cd etc
+  ls
+  vi odbcinst.ini 
+  sudo apt-get install odbc-mariadb
+  vi odbcinst.ini 
+  java --version
+  sudo apt install openjdk-19-jre-headless
+  cd ..
+  ls
+  cd home
+  ls
+  cd ..
+  cd sys
+  ls
+  javac PostgreSQLJDBC.java 
+  java -cp postgresql-42.5.3.jar ; 
+  java PostgreSQLJDBC 
+  java -cp postgresql-42.5.3.jar ; PostgreSQLJDBC
+  java PostgreSQLJDBC -cp postgresql-42.5.3.jar ; 
+  javac PostgreSQLJDBC.java 
+  java PostgreSQLJDBC 
+  cd Asgn3
+  cd Assgn3
+  ls
+  javac PostgreSQLJDBC.java 
+  java PostgreSQLJDBC 
+  clear
+  cd Assgn3
+  java PostgreSQLJDBC 
+  javac PostgreSQLJDBC.java 
+  java PostgreSQLJDBC 
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/" && javac PostgreSQLJDBC.java && java PostgreSQLJDBC
+  jdk
+  java -version
+  javac PostgreSQLJDBC.java
+  java PostgreSQLJDBC
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/" && javac PostgreSQLJDBC.java && java PostgreSQLJDBC
+  java -cp postgresql-42.5.1.jar; PostgreSQLJDBC
+  javac PostgreSQLJDBC.java 
+  java PostgreSQLJDBC
+  OpenJDK --version
+  java --version
+  sudo psql -u
+  sudo -u postgres psql
+  sudo apt-get install openjdk-11-jdk
+  java -version
+  sudo update-alternatives --config java
+  java -version
+  sudo -s
+  java -version
+  sudo update-alternatives --config java
+  java -version
+  sudo update-alternatives --config java
+  python3 db1.py 
+  ssh 20CS10074@10.5.18.70
+  python3 db1.py 
+  ssh 20CS10074@10.5.18.70
+  python3 db1.py 
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc shell.c -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms/Assgn3/" && javac PostgreSQLJDBC.java && java PostgreSQLJDBC
+  cd Assgn3
+  javac PostgreSQLJDBC.java 
+  java -cp postgresql-42.5.1.jar ; PostgreSQLJDBC
+  java -cp postgresql-42.5.1.jar ; PostgreSQLJDBC.java
+  java -cp postgresql-42.5.1.jar | PostgreSQLJDBC
+  java -cp postgresql-42.5.1.jar ; java PostgreSQLJDBC
+  java -cp postgresql-42.5.1.jar ;./PostgreSQLJDBC
+  javac PostgreSQLJDBC.java 
+  java PostgreSQLJDBC 
+  gcc -c -I/usr/local/pgsql/include db2.c
+  gcc -Wall -I "$(pg_config --includedir)" -L "$(pg_config --libdir)" -o coltype db2.c -lpq
+  cd Assgn3
+  gcc -Wall -I "$(pg_config --includedir)" -L "$(pg_config --libdir)" -o coltype db2.c -lpq
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ls
+  cd Assgn3
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./lib_version 
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./lib_version 
+  java --version
+  javac --version
+  javac -version
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./db2.c
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./db2.c
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./db2.c
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./db2.c
+  sudo -u postgres psql
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./db2.c
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./db2.c
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./db2.c
+  ./lib_version 
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./lib_version 
+  ./lib_version  cd /home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/dbms ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java @/tmp/cp_19n7nva5f3v61f7h6r6yocghg.argfile PostgreSQLJDBC 
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  ./lib_version 
+  gcc -o lib_version db2.c -I/usr/include/postgresql -lpq 
+  cd Assgn3
+  javac PostgreSQLJDBC.java 
+  java -cp postgresql-42.5.3: PostgreSQLJDBC
+  java -cp postgresql-42.5.3; PostgreSQLJDBC
+  java -cp postgresql-42.5.3.jar: PostgreSQLJDBC
+  python3 db1.py 
+  code .
+  gcc -c -I/usr/local/pgsql/include testprog.c
+  pg_config --libdir
+  cd /usr/lib/x86_64-linux-gnu
+  ls
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc shell.c -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc shell1.c -o shell1 && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell1
+  ls -l
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc shell1.c -o shell1 && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell1
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc shell.c -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc myshell.c -o myshell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"myshell
+  ./a.out > output.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc myshell.c -o myshell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"myshell
+  gcc main.c 
+  ./a.out
+  ./a.out<output1.txt>
+  ./a.out<output1.txt
+  ./a.out>output1.txt
+  ./a.out >output>.txt
+  ./a.out >output5.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc myshell.c -o myshell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"myshell
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  pwd >non.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  gcc main.c
+  cd vi
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  g++ basic.cpp 
+  ./a.out <inp.txt>outp.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  ./a.out < inp.txt > outp.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  cd
+  pwd
+  ls
+  cd sw/vinod
+  code .
+  ls | pwd
+  ls
+  ls | more
+  pwd | ls
+  ls |pwd
+  more
+  g++ -o inf inf.cpp 
+  ./inf >outputinf.txt
+  ./inf
+  clear
+  ./inf >outputinf.txt
+  g++ -o inf inf.cpp 
+  ./inf >op.txt&
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  g++ -o inf inf.cpp 
+  ./inf >op1.txt
+  g++ -o inf inf.cpp 
+  ./inf >op1.txt
+  chmod +x Assgn1_3_29.sh 
+  ./Assgn1_3_29.sh ./OS23_JSON_ASSGN/json_dumps ./Q3_csv_dumps created_at id_str retweet_count
+  ./Assgn1_4_29.sh input4.txt output4.txt 
+  > output4.txt 
+  ./Assgn1_4_29.sh input4.txt output4.txt 
+  man pwd
+  ./Assgn1_9_29.sh 9_da.txt 9_da_out.txt 
+  code .
+  ./Assgn1_7_29.sh ./input ./output7
+  ./Assgn1_6_29.sh input.txt output6.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  ls
+  ls | more
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  ls
+  ls | sort
+  ls | grep
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ pipe1.cpp -o pipe1 && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"pipe1
+  ls | grep main | sort
+  ls | grep shell | sort
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  g++ -o basic basic.cpp 
+  ./basic < inp.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  gedit dir?/file?.txt
+  gedit dir1/file1.txt
+  ls | grep shell > op.txt | sort
+  ls | grep shell
+  ls | grep shell | more
+  grep shell
+  ls | grep *.txt| sort
+  ls | grep *.txt
+  ls | grep .txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  gedit dir1/file1.txt dir2/file2.txt dir3/file3.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ glob.cpp -o glob && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"glob
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  sort dir?/file?.txt
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  clear
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ shell.cpp -o shell && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"shell
+  sudo apt-get install libreadline8
+  sudo apt-get install libreadline-dev
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && gcc updown.c -o updown && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"updown
+  cd "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/" && g++ updown.cpp -o updown && "/home/vinod/Documents/IIT_Kharagpur/CSE_Sem_6/OS_Lab/Assgn2/"updown
+  g++ updown.cpp -o updown -lreadline
+  ./updown
+  ls
+  pwd
+  g++ shell.cpp -o shell -l lreadline 
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  g++ shell.cpp -o shell -lreadline 
+  ./shell
+  history 1000
+  history 1000 > his.txt
+ls
+  ls | grep .txt
+pwd
+cd ..
+  g++ shell.cpp -o shell -lreadline 
+cd Assgn2
+ls
+  g++ shell.cpp -o shell -lreadline 
+./shell
+ls
+pwd
+vinod
+dir
+d*
+gedit d*/f*
+exit
+ls
+./shell
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+pwd
+exit

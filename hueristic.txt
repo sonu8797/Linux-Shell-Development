@@ -1,0 +1,7 @@
+Run a process.
+Traverse the process as parent by parent.
+If a suspicious process is found, traverse all its child processes.
+Find the first two child processes that have the maximum number of subchild processes.
+If the difference between the number of subchild processes of the first and second child is greater than the threshold value (50), traverse the child with the maximum number of subchild processes.
+If a single child is reached, return its process ID.
+If the threshold value is reached, return the parent of those child processes.
